@@ -1,0 +1,23 @@
+Backend +frontend
+Basic registration + login functionality
+After logging in => private page to manage tasks
+Tasks in Database
+Javascript
+React
+Express
+MongoDB
+
+APP:
+	
+NavBar
+NavBar(login and register options) if user not logged in
+NavBar(logout) if user is logged in
+Pages
+Registration Form
+Login Form
+Private Page(if user logs in) contain list of tasks, with add and delete tasks, tasks retrieved from database
+Server:
+4000 port server
+Local connection to database
+CRUD routes for users and list of tasks
+Error Handling
